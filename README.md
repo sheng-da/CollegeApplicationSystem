@@ -9,4 +9,6 @@ the info and the information will be stored in database.
 For the login credential, we require one pair of information – user name and password to access the website. 
 We encrypted passing word by storing MD5 hashed password rather than the raw text password in the database. 
 
+Group Member: Da Sheng, Feng Yuan
+
 
